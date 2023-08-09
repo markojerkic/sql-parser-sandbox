@@ -1,0 +1,10 @@
+{
+  "name": "sql-parser-sandbox",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Ja",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
